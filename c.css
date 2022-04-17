@@ -332,13 +332,13 @@ section#group {
 }
 
 .mybg-music {
-    background: url('https://images.pexels.com/photos/1267317/pexels-photo-1267317.jpeg?auto=compress&cs=tinysrgb&h=650&w=940') no-repeat center center fixed;
+    background: url('c1.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
 section#marketplace {
     background: #f7f7f7;
-    height: 100%;
+    height: auto;
     width: 100%;
     padding-top: 5rem;
     padding-bottom: 5rem;
